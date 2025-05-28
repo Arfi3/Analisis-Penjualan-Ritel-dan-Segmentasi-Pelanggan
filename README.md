@@ -9,7 +9,7 @@ Dataset Retail Sales merupakan data penjualan ritel dan demografi penjualan. Dat
 
 
 Dataset yang digunakan tersedia di repositori: 
-[🔗 titanic.xlsx](https://github.com/Arfi3/Analisis-Penjualan-Ritel-dan-Segmentasi-Pelanggan/blob/main/retail_sales_dataset.csv)
+[🔗 Retail_Sales_Dataset.csv](https://github.com/Arfi3/Analisis-Penjualan-Ritel-dan-Segmentasi-Pelanggan/blob/main/retail_sales_dataset.csv)
 
 ---
 
